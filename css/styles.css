@@ -191,6 +191,10 @@ body {
 
 /*Studio-main*/
 
+.hero-container {
+  text-align: center;
+}
+
 .hero {
   background-color: var(--hero-color);
   padding-top: 200px;
@@ -234,7 +238,6 @@ body {
   color: var(--primary-title-color);
   cursor: pointer;
   padding: 10px 32px;
-  margin-left: 500px;
 }
 
 .section {
